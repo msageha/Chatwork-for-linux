@@ -1,2 +1,2 @@
-# Chatwork-for-ubuntu
+# Chatwork-for-linux
 Chatwork ubuntu client app

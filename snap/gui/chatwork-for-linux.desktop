@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=Chatwork
+GenericName=Chatwork
+Comment=Chatwork
+Type=Application
+Icon=${SNAP}/meta/gui/chatwork-for-linux.png
+Exec=chatwork-for-linux
+StartupWMClass=chatwork-for-linux
